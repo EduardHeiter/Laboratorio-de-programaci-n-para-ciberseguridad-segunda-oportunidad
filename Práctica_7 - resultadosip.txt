@@ -1,0 +1,11 @@
+130 puerto cerrado
+131 puerto cerrado
+132 puerto cerrado
+133 puerto cerrado
+134 puerto cerrado
+135 puerto abierto
+136 puerto cerrado
+137 puerto cerrado
+138 puerto cerrado
+139 puerto abierto
+140 puerto cerrado
