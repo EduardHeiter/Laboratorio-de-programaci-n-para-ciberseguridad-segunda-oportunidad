@@ -1,0 +1,26 @@
+"""
+Practica 10
+Alumno: Eduardo Alonso Gaytan Valadez
+Maestro: Jose Anastacio Hernández
+
+NTUSER.DAT informacion relevante
+"""
+
+Hive (C:\Users\eduar\Desktop\NTUSER.DAT) is not dirty.
+
+adobe v.20200522
+(NTUSER.DAT) Gets user's Adobe app cRecentFiles values
+
+adobe v.20200522
+Could not access Software\Adobe\Adobe Acrobat\\AVGeneral\cRecentFiles
+----------------------------------------------------------------------------
+allowedenum v.20200511
+(NTUSER.DAT, Software) Extracts AllowedEnumeration values to determine hidden special folders
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\AllowedEnumeration not found.
+Microsoft\Windows\CurrentVersion\Explorer\AllowedEnumeration not found.
+----------------------------------------------------------------------------
+appassoc v.20200515
+- Gets contents of user's ApplicationAssociationToasts key
+
+LastWrite: 2020-11-16 19:18:24Z
